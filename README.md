@@ -1,4 +1,6 @@
 ### Hi there 👋 ### I am Navjot Kaur.. Warm welcome to my profile..😊
+💻 Changing career to Software Development.
+📗 Learning every day a little more about coding.
 
 <!--
 **NavMomi/NavMomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
