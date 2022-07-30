@@ -1,4 +1,5 @@
-### Hi there 👋 ### I am Navjot Kaur.. Warm welcome to my profile..😊
+### Hi there 👋 
+### I'm Navjot Kaur.. Warm welcome to my profile..😊
 💻 Changing career to Software Development.
 📗 Learning every day a little more about coding.
 
